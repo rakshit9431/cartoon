@@ -23,7 +23,7 @@ const Navbar = () => {
           <div className="p-1.5 bg-orange-300 rounded">SIGN UP/SIGN IN</div>
           <div className="flex flex-col justify-center items-center">
             <IoIosHeart className="text-gray-900 text-3xl " />
-            <p>fovrate</p>
+            <p>Favorites</p>
           </div>
           <div className="flex flex-col justify-center items-center">
             <IoIosBasket className="text-gray-900 text-3xl pl-2" />
